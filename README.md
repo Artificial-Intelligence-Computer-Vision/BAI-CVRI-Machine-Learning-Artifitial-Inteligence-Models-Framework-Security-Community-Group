@@ -10,8 +10,8 @@
 - Ronaldson Bellande Github: https://github.com/RonaldsonBellande
 - Email: ronaldsonbellande@gmail.com
 - Discord Group: https://discord.gg/ecjdd7QQQV
-- Google Group: soon
-- Email Group: soon
+- Google Group: https://groups.google.com/g/ml-artificial-intelligence-models-framework-security
+- Email Group: ml-artificial-intelligence-models-framework-security@googlegroups.com
 - Google Meeting Calender: soon
 - Google Meeting Link: Soon
 

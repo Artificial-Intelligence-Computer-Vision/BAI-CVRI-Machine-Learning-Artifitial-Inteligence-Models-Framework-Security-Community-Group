@@ -13,7 +13,7 @@
 - Google Group: https://groups.google.com/g/ml-artificial-intelligence-models-framework-security
 - Email Group: ml-artificial-intelligence-models-framework-security@googlegroups.com
 - Google Meeting Calender: soon
-- Google Meeting Link: Soon
+- Google Meeting Link: https://meet.google.com/myt-ufcz-phu?authuser=0&hs=122&ijlm=1717817072470
 
 ## Resources
 - Google Calendar: soon

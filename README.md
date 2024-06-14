@@ -9,7 +9,8 @@
 - BAI&CVRI Center Linkedin Page: https://www.linkedin.com/company/bellande-artificial-intelligence-computer-vision-research-innovation-center
 - Ronaldson Bellande Github: https://github.com/RonaldsonBellande
 - Email: ronaldsonbellande@gmail.com
-- Discord Group: https://discord.gg/ecjdd7QQQV
+- Discord Group Robotics: https://discord.gg/ecjdd7QQQV
+- Discord Group AI/Ml/CV: https://discord.gg/zgt5es3XeC
 - Google Group: https://groups.google.com/g/ml-artificial-intelligence-models-framework-security
 - Email Group: ml-artificial-intelligence-models-framework-security@googlegroups.com
 - Google Meeting Calender: soon

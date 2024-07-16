@@ -1,4 +1,4 @@
-# {BAI-CVRI} Machine Learning & Artificial Intelligence Models Framework Security Community Group for {ROS/ROS2 Offitial} {Open Robotics Official} {Bellande Technologies Corperation Inc}
+# {BAICVRI} Machine Learning & Artificial Intelligence Models Framework Security Community Group for {Robotics Official} {Bellande Technologies Inc Official}
 
 **Mission**: Explore Machine Learning/Algorithms/Artifitial Inteligence
 
